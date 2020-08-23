@@ -1,0 +1,20 @@
+{
+  "id": "ORDER_1",
+  "messageContributions": [
+    {
+      "name": "VOLVO",
+      "auditDetails": {
+        "numberOfDoors": 4,
+        "engineSize": 2000
+      }
+    },
+    {
+      "name": "GIBSON",
+      "auditDetails": {
+        "numberOfStrings": 6,
+        "material": "Cherry",
+        "colour": "Cherry Sunburst"
+      }
+    }
+  ]
+}
